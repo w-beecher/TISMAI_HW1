@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "fegrammar.tab.h": "c",
+        "symtab.h": "c"
+    }
+}

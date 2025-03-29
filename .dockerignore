@@ -1,0 +1,4 @@
+*.o
+Code/lex.yy.c
+Code/feGrammar.tab.*
+fec
